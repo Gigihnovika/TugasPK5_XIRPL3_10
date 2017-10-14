@@ -1,0 +1,72 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #00FFFF; 
+}
+
+button{
+	background-color: magenta;
+	color: white;
+	border : solid #3897f0 1px;
+	padding: 5px 8px;	
+	margin: 10px 0px;
+	width: 250px;
+	transition: background-color .4s;
+	font-family: ;
+	font-size: 18px;
+}
+
+button:hover{
+	cursor: pointer;
+	background-color: #000080;
+}
+p{
+	margin: 5px; 
+	color: black; 
+	font-family: times new rowman;
+}
+p2{
+	text-align: center;
+	margin: 10px; 
+	color: #999; 
+	font-family: times new rowman;
+}
+input{
+	margin: 3px 0px;
+	width: 230px;
+	padding: 5px 10px;
+}
+
+h1{
+	font-family:times new rowman;
+	font-size: 50px;
+	margin:0px 0px;
+	padding: 0px 0px;
+}
+h2{
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+h3{
+	font-family:times new rowman;
+}
+
+h3, p{
+	color: #999;
+}
+
+#form{
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.content{
+	margin: 0 auto;
+	background-color: white;
+	padding: 25px 0px;
+	width: 30%;
+	text-align: center;
+	margin-top: 50px;
+	border: 10px;
+}
